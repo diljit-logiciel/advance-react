@@ -1,0 +1,14 @@
+.footerContentPara{
+  background-color: black;
+  color: white;
+  margin: 0;
+  padding: 25px;
+  margin-top: 100px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.main
+{
+  min-height: 80vh;
+}
